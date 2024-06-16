@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ImmuDeploy/static/css/main.20a6e68d.css",
+    "main.js": "/ImmuDeploy/static/js/main.80b460ea.js",
+    "static/media/bgimg.jpeg": "/ImmuDeploy/static/media/bgimg.a9e16e25e0f361864b46.jpeg",
+    "static/media/motherimg.avif": "/ImmuDeploy/static/media/motherimg.f30e32325d0b3c2e3371.avif",
+    "index.html": "/ImmuDeploy/index.html",
+    "main.20a6e68d.css.map": "/ImmuDeploy/static/css/main.20a6e68d.css.map",
+    "main.80b460ea.js.map": "/ImmuDeploy/static/js/main.80b460ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a6e68d.css",
+    "static/js/main.80b460ea.js"
+  ]
+}
